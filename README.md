@@ -12,4 +12,4 @@ I previously took a [Machine Learning](https://www.coursera.org/account/accompli
 
 As a CEO whose main focus is growing the company and leading the team to the North Star, I primarily delegate programming tasks to our tech team. Hence, this repository also serves as my reviewer whenever I need to revisit my technical skills.
 
-*Please note that, although, I have put MIT license, but some or most codes are provided solution readily by the team running the courses, especially the file with "_Soln" in it. So please these learning materials responsibly and ethically*
+*Please note that, although, I have put MIT license, but some or most codes are provided solution readily by the team running the courses, especially the file with "_Soln" in it. So please use these learning materials responsibly and ethically*
