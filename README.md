@@ -4,9 +4,9 @@
 
 The [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/DXLGWH7YFGKH) is divided into three courses:
 
-1. Supervised Machine Learning: Regression and Classification
-2. Learning Advanced Algorithms
-3. Unsupervised Machine Learning: Recommenders, Reinforcement Learning
+Course 1 (C1):  Supervised Machine Learning: Regression and Classification
+Course 2 (C2): Learning Advanced Algorithms
+Course 3 (C3): Unsupervised Machine Learning: Recommenders, Reinforcement Learning
    
 I previously took a [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/Q59MRA2HM5PL) course by Dr. Ng, but it was taught using Octave. However, given the increasing dominance of Python in the AI and other digital systems domains, I find it essential to adapt. As AI inevitably becomes an integral part of our society, I am upskilling and reskilling through self-study and online courses. Drawing upon the knowledge acquired from experts like the renowned AI pioneer, Dr. Ng, I strive not only to enhance my own understanding but also to share these learning materials with others.
 
