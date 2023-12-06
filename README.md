@@ -2,9 +2,9 @@
 
 ## These are my solutions to the Practice Lab Assignments of the Machine Learning Specialization by Dr. Andrew Ng that I completed in November 2023.
 
-The [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/DXLGWH7YFGKH) is divided into three courses:  
+The [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/DXLGWH7YFGKH) is divided into three courses:  <br>
 
-Course 1 (C1):  Supervised Machine Learning: Regression and Classification   
+Course 1 (C1):  Supervised Machine Learning: Regression and Classification   <br>
 Course 2 (C2): Learning Advanced Algorithms   
 Course 3 (C3): Unsupervised Machine Learning: Recommenders, Reinforcement Learning /
    
